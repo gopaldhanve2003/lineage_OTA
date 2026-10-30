@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1791825975,
+    "datetime": 1793354147,
     "files": [
       {
-        "filename": "lineage-24.0-20261012-UNOFFICIAL-gms-nemo.zip",
+        "filename": "lineage-24.0-20261030-UNOFFICIAL-gms-nemo.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 37,
         "ota_property_files": "metadata:69:381,metadata.pb:518:316",
-        "sha256": "f480e0ce4b49e4f02396e0ebbf0d49127c96eeec96b6d7f77c35a3a42e8fcc27",
-        "size": 1876538433,
-        "url": "https://github.com/gopaldhanve2003/lineage_OTA/releases/download/nemo-20261012_214939/lineage-24.0-20261012-UNOFFICIAL-gms-nemo.zip"
+        "sha256": "61a40387205f38256cb71685fb22b17088e7c7028e0e890665f5326eaaf08713",
+        "size": 1884480501,
+        "url": "https://github.com/gopaldhanve2003/lineage_OTA/releases/download/nemo-20261030_141123/lineage-24.0-20261030-UNOFFICIAL-gms-nemo.zip"
       }
     ],
     "type": "UNOFFICIAL",
